@@ -5317,7 +5317,7 @@ export const ccloans = {
   },
 };
 
-export const sacc1 = {
+export const saccIAcards = {
   eligibleTabs: {
     data: {
       tabs: ["JUPITER_SAVINGS_SERVICE", "JUPITER_EDGE_CARD"],
@@ -5330,7 +5330,7 @@ export const sacc1 = {
     },
   },
 };
-export const saloans1 = {
+export const saloansIAcards = {
   eligibleTabs: {
     data: {
       tabs: ["JUPITER_SAVINGS_SERVICE", "JUPITER_ON_DEMAND_SALARY"],
@@ -5344,7 +5344,7 @@ export const saloans1 = {
   },
 };
 
-export const ccloans1 = {
+export const ccloansIAcards = {
   eligibleTabs: {
     data: {
       tabs: ["JUPITER_EDGE_CARD", "JUPITER_ON_DEMAND_SALARY"],
@@ -5358,7 +5358,7 @@ export const ccloans1 = {
   },
 };
 
-export const saccloans1 = {
+export const saccloansIAcards = {
   eligibleTabs: {
     data: {
       tabs: [
@@ -5376,7 +5376,7 @@ export const saccloans1 = {
   },
 };
 
-export const sa1 = {
+export const saIAcards = {
   eligibleTabs: {
     data: {
       tabs: ["JUPITER_SAVINGS_SERVICE"],
@@ -5390,7 +5390,7 @@ export const sa1 = {
   },
 };
 
-export const cc1 = {
+export const ccIAcards = {
   eligibleTabs: {
     data: {
       tabs: ["JUPITER_EDGE_CARD"],
@@ -5404,7 +5404,7 @@ export const cc1 = {
   },
 };
 
-export const loans1 = {
+export const loansIAcards = {
   eligibleTabs: {
     data: {
       tabs: ["JUPITER_ON_DEMAND_SALARY"],

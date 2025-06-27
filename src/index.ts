@@ -7,13 +7,13 @@ import {
   saccloans,
   saloans,
   ccloans,
-  loans1,
-  cc1,
-  saloans1,
-  sacc1,
-  sa1,
-  ccloans1,
-  saccloans1,
+  loansIAcards,
+  ccIAcards,
+  saloansIAcards,
+  saccIAcards,
+  saIAcards,
+  ccloansIAcards,
+  saccloansIAcards,
   ccreject,
   loansreject,
   sareject,
@@ -22,12 +22,12 @@ import {
 const app = express();
 
 app.get("/getEligibleTabs", (req: Request, res: Response) => {
-  res.json(cc1);
+  res.json(ccIAcards);
   return;
 });
 
 app.get("/getHomePageData", (req: Request, res: Response) => {
-  res.json(sa);
+  res.json(sareject);
   return;
 });
 
